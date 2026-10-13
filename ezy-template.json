@@ -1,0 +1,8 @@
+{
+  "name": "EzyCommunity Site",
+  "description": "Your community's public site — home page and blog, rendered from your own code and deployed on every push to the branch you connect, or on every zip upload.",
+  "framework": "tanstack-start",
+  "install": "npm install --no-audit --no-fund",
+  "dev": "npm run dev",
+  "port": 3000
+}

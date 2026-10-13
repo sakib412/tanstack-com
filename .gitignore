@@ -1,0 +1,10 @@
+node_modules
+dist
+.output
+.nitro
+.tanstack
+routeTree.gen.ts
+*.local
+.wrangler
+.env
+src/generated
